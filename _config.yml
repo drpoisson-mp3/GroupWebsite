@@ -1,4 +1,4 @@
-title: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH #Mcgill Sea Ice Group and Ice Ocean Instrumentation Lab (IOIL)
+title: Mcgill Sea Ice Group and Ice Ocean Instrumentation Lab (IOIL)
 description: Internal Website for brunos sea ice group
 theme: just-the-docs
 
@@ -9,3 +9,10 @@ aux_links:
 
 # Set a path/url to a logo that will be displayed instead of the title
 #logo: "/assets/Slide1.PNG"
+
+# Enable or disable the side/mobile menu globally
+# Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
+nav_enabled: true
+
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
