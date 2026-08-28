@@ -6,3 +6,26 @@ nav_order: 2
 
 
 # People
+
+# Current Members
+
+## Research Assistant
+- Jan
+
+
+## PhD
+- Florence Beaudry
+- Félix
+
+## MSc
+- Hugo
+- Dylan
+- Damien
+- Éloise
+- Sut
+- Adèle
+- Nolan
+
+## Intern
+- Carla
+- Aidan
