@@ -1,12 +1,13 @@
 ---
-title: People
+title: Buoy
 layout: default
 nav_order: 3
 parent: About
 
 ---
 
-# This could be a people page 
+
+# TFresehwater Buoy Program
 
 1. Wow
 2. We 
