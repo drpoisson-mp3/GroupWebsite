@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order=1
 ---
 # Salut, Et si on avait un site web avec des liens vers le drive au lieu d'etre perdu
 
