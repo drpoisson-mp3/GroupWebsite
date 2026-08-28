@@ -13,3 +13,5 @@ nav_order: 2
 - We are now part of the ENDURANCE program
 - New well-posed rheology
 - Working on a New Buoy with a Sonar
+
+  **Delete after more than 1 years**
