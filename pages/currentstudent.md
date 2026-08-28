@@ -1,7 +1,7 @@
 ---
 title: Current Student
 layout: default
-nav_order: 2
+nav_order: 3
 parent: People
 ---
 # Current Members
