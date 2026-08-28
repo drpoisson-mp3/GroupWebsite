@@ -1,14 +1,8 @@
 ---
-title: Buoy
+title: People
 layout: default
-nav_order: 3
-parent: About
-
+nav_order: 2
 ---
 
 
-# TFresehwater Buoy Program
-
-1. Wow
-2. We 
-3. have many people in the group
+# People
