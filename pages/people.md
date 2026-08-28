@@ -7,7 +7,8 @@ nav_order: 2
 
 # People
 
-# Current Members
+## Principal Investigator
+- Bruno
 
 ## Research Assistant
 - Jan
@@ -18,7 +19,7 @@ nav_order: 2
 - Félix
 
 ## MSc
-- Hugo
+- Master Hyou go
 - Dylan
 - Damien
 - Éloise
