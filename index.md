@@ -1,9 +1,11 @@
 ---
-title: Home
+title: Mcgill Sea Ice Group
 layout: home
 nav_order: 1
 ---
-# Salut, Et si on avait un site web avec des liens vers le drive au lieu d'etre perdu
+
+
+# Mcgill Sea Ice 
 
 Bon il faut que j'apprenne comment rendre le site cute mais ça semble simple et rigolo
 
