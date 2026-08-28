@@ -12,4 +12,4 @@ nav_order: 2
 - New Article on the Circle about the LIA
 - We are now part of the ENDURANCE program
 - New well-posed rheology
-- 
+- Working on a New Buoy with a Sonar
